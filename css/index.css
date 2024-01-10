@@ -134,7 +134,7 @@ nav a span:nth-child(2) {
   margin: 7px 0;
 }
 /* 하단 */
-footer {
+/* footer {
   width: 100%;
   background-color: #000;
   padding: 50px 0;
@@ -149,4 +149,4 @@ footer {
 .ft-icon li {
   display: inline-block;
   padding: 0 10px;
-}
+} */
